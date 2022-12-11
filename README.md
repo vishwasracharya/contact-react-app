@@ -1,3 +1,5 @@
+A basic React App which has a contact form and shows the data. A Fundamental Web App to learn React.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
